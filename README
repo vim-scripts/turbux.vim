@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3873
+
+Turbux is designed to speed up your TDD cycle by using a single key mapping to run the most relevant test based on the current file in vim. It uses tmux's scriptability to send commands to a chosen pane in your tmux session, by way of tslime.vim.
+
+For more information, see the documentation.
+
+Must be used with tslime.vim, vimscript #3023. Best when used with rails.vim, vimscript #1567.
